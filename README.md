@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-satym" alt="the-satym" /></a> </p>
 
-- 🔭 I’m currently working on [100 real life use case projects](https://github.com/the-satym/100-real-projects)
+- 🔭 I’m currently working on **Vectrs** *- a platform built around community of enthusiast across robotics, avionics, coding, ai/ml,science.*
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on **python projects**
-
-- 🤝 I’m looking for help with **who knows ai ml**
 
 - 👨‍💻 All of my projects are available at [https://github.com/the-satym/](https://github.com/the-satym/)
 
 - 📝 I regularly write articles on [updates in latest technologies](updates in latest technologies)
 
-- 💬 Ask me about **Backend and GUI**
+- 💬 Ask me about **Web Dev, Dev Ops, system design concepts, electronics, ai/ml/dl, Internet of Things, UI/UX, graphics, Video editing, color grading**
 
 - 📫 How to reach me **connect.satym@gmail.com**
 
