@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Python Developerfrom India</h3>
 
 
-I have won aeromodelling competitions at IIT BHU,IIIT ranchi, NIT janshedpur, MMMUT gorakhpur
-I have worked and still on contractual projects like CRM, CMS, ERP, Web apps, Mobile app.
-I have built Line Following Robocars (LFR).
-I am Recently working on build a NAS from scratch for my company(Vectrs).
+- I have won aeromodelling competitions at IIT BHU,IIIT ranchi, NIT janshedpur, MMMUT gorakhpur
+- I have worked and still on contractual projects like CRM, CMS, ERP, Web apps, Mobile app.
+- I have built Line Following Robocars (LFR).
+- I am Recently working on build a NAS from scratch for my company(Vectrs).
 
 - 🔭 I’m currently working on **Vectrs** *- a platform built around community of enthusiast across robotics, avionics, coding, ai/ml,science.*
 
