@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python Developerfrom India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-satym" alt="the-satym" /></a> </p>
+
 
 - 🔭 I’m currently working on **Vectrs** *- a platform built around community of enthusiast across robotics, avionics, coding, ai/ml,science.*
 
