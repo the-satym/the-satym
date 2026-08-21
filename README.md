@@ -7,19 +7,19 @@
 - I have built Line Following Robocars (LFR).
 - I am Recently working on build a NAS from scratch for my company(Vectrs).
 
-- 🔭 I’m currently working on **Vectrs** *- a platform built around community of enthusiast across robotics, avionics, coding, ai/ml,science.*
+-- 🔭 I’m currently working on **Vectrs** *- a platform built around community of enthusiast across robotics, avionics, coding, ai/ml,science.*
 
-- 🌱 I’m currently learning **System Design**
+-- 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **python projects**
+-- 👯 I’m looking to collaborate on **python projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/the-satym/](https://github.com/the-satym/)
+-- 👨‍💻 All of my projects are available at [https://github.com/the-satym/](https://github.com/the-satym/)
 
-- 📝 I regularly write articles on [updates in latest technologies](updates in latest technologies)
+-- 📝 I regularly write articles on [updates in latest technologies](updates in latest technologies)
 
-- 💬 Ask me about **Web Dev, Dev Ops, system design concepts, electronics, ai/ml/dl, Internet of Things, UI/UX, graphics, Video editing, color grading**
+-- 💬 Ask me about **Web Dev, Dev Ops, system design concepts, electronics, ai/ml/dl, Internet of Things, UI/UX, graphics, Video editing, color grading**
 
-- 📫 How to reach me **connect.satym@gmail.com**
+-- 📫 How to reach me **connect.satym@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
